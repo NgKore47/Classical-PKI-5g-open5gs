@@ -1,0 +1,1 @@
+# Classical-PKI-5g-open5gs
